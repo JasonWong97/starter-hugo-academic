@@ -1,6 +1,7 @@
 ---
 title: Jiacheng Weng
-role: Professor of Artificial Intelligence
+role: MS in Applied Data Science
+avatar_filename: img_3894.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -10,22 +11,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:jweng@usc.edu
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/JasonWong97
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jiachengweng/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Southern California
+    url: https://www.usc.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence

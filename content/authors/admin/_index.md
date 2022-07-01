@@ -1,7 +1,7 @@
 ---
 title: Jiacheng Weng
 role: MS in Applied Data Science
-avatar_filename: img_3894.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

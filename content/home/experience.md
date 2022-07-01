@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Software Engineer Intern 
+    company: Sony Pictures Entertainment 
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Los Angeles, California
+    date_start: '2022-06-01'
+    date_end: '2022-12-14'
     description: |2-
         Responsibilities include:
         
@@ -36,15 +36,23 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Software Engineer Intern
+    company: Nokia
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Hangzhou, China
+    date_start: '2021-05-23'
+    date_end: '2021-08-07'
     description: Taught electronic engineering and researched semiconductor physics.
 
+  - title: Software Engineer Intern
+    company: Hikvision
+    company_url: ''
+    company_logo: org-x
+    location: Hangzhou, China
+    date_start: '2020-03-01'
+    date_end: '2020-05-20'
+    description: Taught electronic engineering and researched semiconductor physics.
 design:
-  columns: '2'
+  columns: '4'
 ---

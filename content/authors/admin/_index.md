@@ -36,9 +36,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+Jiacheng Weng is an outstanding student from the University of Southern California, majoring in Applied Data Science. Having a good understanding of software, he has a great interest in Backend and Infrastructure. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+He is an intern at Sony Pictures Entertainment working on cloud web application development. He has interned at Nokia as a Scrum Master, responsible for delivering end-to-end functionality. Familiar with Java, Python, he has good troubleshooting skills and is a great team member.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He'll graduate in December 2022 and is actively seeking a position as a Software Development Engineer.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/JiachengWeng2023NewGrad.pdf" "newtab" >}}resumé{{< /staticref >}}.

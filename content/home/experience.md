@@ -43,7 +43,14 @@ experience:
     location: Hangzhou, China
     date_start: '2021-05-23'
     date_end: '2021-08-07'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: >-
+        * Developed a 5G document verification system, used to regulate the document format.
+
+        * Acted as Scrum Master, collaborating with a group of 7 engineers. Implemented the idea of Agile development, familiar with CI/CD and DevOps process.
+        
+        * Architected and built out a pipeline infrastructure with GitLab Webhook + Jenkins + Docker to leverage automation to prevent potential troubles.
+
+        * Revamped the back-end/front-end structure with React / SpringBoot + MongoDB to increase search speed by 30%.
 
   - title: Software Engineer Intern
     company: Hikvision
@@ -53,6 +60,7 @@ experience:
     date_start: '2020-03-01'
     date_end: '2020-05-20'
     description: Taught electronic engineering and researched semiconductor physics.
+    sdfs
 design:
-  columns: '4'
+  columns: '2'
 ---

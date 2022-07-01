@@ -35,7 +35,7 @@ highlight_name: true
 ---
 Jiacheng Weng is an outstanding student from the University of Southern California, majoring in Applied Data Science. Having a good understanding of software, he has a great interest in Backend and Infrastructure. 
 
-He is an intern at Sony Pictures Entertainment working on cloud web application development. He has interned at Nokia as a Scrum Master, responsible for delivering end-to-end functionality. Familiar with Java, Python, he has good troubleshooting skills and is a great team member.
+He is an intern at Sony Pictures Entertainment working on cloud web application development. He has also interned at Nokia as a Scrum Master, responsible for delivering end-to-end functionality. Familiar with Java, Python, he has good troubleshooting skills and is a great team member.
 
 He'll graduate in December 2022 and is actively seeking a position as a Software Development Engineer.
 

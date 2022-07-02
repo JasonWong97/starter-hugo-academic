@@ -57,7 +57,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Hangzhou, China
-    date_start: '2020-03-01'
+    date_start: '2020-03-08'
     date_end: '2020-05-20'
     description: Taught electronic engineering and researched semiconductor physics.
     sdfs

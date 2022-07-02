@@ -60,7 +60,8 @@ experience:
     date_start: '2020-03-08'
     date_end: '2020-05-20'
     description: Taught electronic engineering and researched semiconductor physics.
-    sdfs
+
+
 design:
   columns: '2'
 ---

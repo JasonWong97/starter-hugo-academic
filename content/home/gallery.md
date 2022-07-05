@@ -14,10 +14,10 @@ design:
 
 gallery_item: 
   - album: ga
-    image: 1spe.png
+    image: 1spe.jpg
     caption: I am currently interning at Sony Pictures Entertainment
   - album: ga
-    image: 2schoolmates.JPG
+    image: 2schoolmates.jpg
     caption: Hiking in Palm Springs
   - album: ga
     image: 3nokia.jpg
@@ -29,7 +29,7 @@ gallery_item:
     image: 5hikvision.jpg
     caption: Even in the hardest time of COVID, we still stand together, work together.
   - album: ga
-    image: 6temple.png
+    image: 6temple.jpg
     caption: I am very grateful for this valuable opportunity to do research with Professor Du.
 
 ---

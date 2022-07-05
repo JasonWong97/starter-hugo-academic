@@ -14,17 +14,23 @@ design:
 
 gallery_item: 
   - album: ga
-    image: 30329899-bffb884c-97e4-11e7-8b93-f8e4bed7338a.png
-    caption: Write your image 1 caption here
+    image: 1spe.png
+    caption: I am currently interning at Sony Pictures Entertainment
   - album: ga
-    image: icons8-git-480.png
-    caption: Write your image 2 caption here
+    image: 2schoolmates.JPG
+    caption: Hiking in Palm Springs
   - album: ga
-    image: nokia.png
-    caption: Write your image 2 caption here
+    image: 3nokia.jpg
+    caption: This was a very fun time working with my fellow colleges.
   - album: ga
-    image: Sony_Pictures_logo.png
-    caption: Write your image 2 caption here
+    image: 4sjtu.jpg
+    caption: Despite not being able to return to the USC campus, thanks to SJTU, we had a very enjoyable semester.
+  - album: ga
+    image: 5hikvision.jpg
+    caption: Even in the hardest time of COVID, we still stand together, work together.
+  - album: ga
+    image: 6temple.png
+    caption: I am very grateful for this valuable opportunity to do research with Professor Du.
 
 ---
 {{< gallery album="ga">}}

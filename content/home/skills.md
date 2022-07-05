@@ -29,13 +29,13 @@ feature:
     icon_pack: fab
     name: Go
   - description: 
+    icon: sitemap
+    icon_pack: fas
+    name: Algorithm
+  - description: 
     icon: comments
     icon_pack: fas
     name: Communication & Team work
-  - description: 
-    icon: sitemap
-    icon_pack: fa-solid
-    name: Algorithm
   - description: 
     icon: database
     icon_pack: fas

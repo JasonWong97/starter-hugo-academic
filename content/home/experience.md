@@ -28,7 +28,7 @@ experience:
     company_logo: spe
     location: Los Angeles, California
     date_start: '2022-06-01'
-    date_end: '2022-12-14'
+    date_end: ''
     description: |2-
         * Worked on a video upscale project to improve video quality and resolution.
 
@@ -43,7 +43,7 @@ experience:
     location: Hangzhou, China
     date_start: '2021-05-23'
     date_end: '2021-08-07'
-    description: >-
+    description: |2-
         * Developed a 5G document verification system, used to regulate the document format.
 
         * Acted as Scrum Master, collaborating with a group of 7 engineers. Implemented the idea of Agile development, familiar with CI/CD and DevOps process.

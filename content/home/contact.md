@@ -44,7 +44,7 @@ content:
   # appointment_url: 'https://calendly.com'
   contact_links:
     - icon: linkedin
-      icon_pack: fas
+      icon_pack: fab
       name: Connect Me
       link: 'https://www.linkedin.com/in/jiachengweng/'
     - icon: instagram

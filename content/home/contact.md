@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 70
 
 title: Contact
 subtitle:
@@ -43,6 +43,10 @@ content:
   #   - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
   contact_links:
+    - icon: linkedin
+      icon_pack: fas
+      name: Connect Me
+      link: 'https://www.linkedin.com/in/jiachengweng/'
     - icon: instagram
       icon_pack: fab
       name: Follow Me

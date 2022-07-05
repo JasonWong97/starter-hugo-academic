@@ -18,6 +18,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/jiachengweng/
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/jiacheng9058/
 organizations:
   - name: University of Southern California
     url: https://www.usc.edu/

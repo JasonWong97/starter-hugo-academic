@@ -29,7 +29,7 @@ experience:
     location: Los Angeles, California
     date_start: '2022-06-01'
     date_end: '2022-12-14'
-    description: >-
+    description: |2-
         * Worked on a video upscale project to improve video quality and resolution.
 
         * Improved the performance and user experience of the Web Application through asynchronous programming and UI logic optimization, etc. Reduced waiting time by 70%.
@@ -59,7 +59,7 @@ experience:
     location: Hangzhou, China
     date_start: '2020-03-08'
     date_end: '2020-05-20'
-    description: >-
+    description: |2-
         * Developed an Auxiliary Platform (AP), used to audit submitted source code, documentation, etc., and authorize the permission-related configuration. 
 
         * Designed the back-end/front-end with Django + REST API / Vue + Element UI, visualized reports with ECharts.

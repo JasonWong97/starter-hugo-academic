@@ -6,8 +6,14 @@ headless: true
 
 title: Gallery
 subtitle:
-weight: 60  # section position on page
 
+
+weight: 60  # section position on page
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+
+{{< gallery album="ga"  >}}
 
 gallery_item:
   - album: ga
@@ -22,8 +28,6 @@ gallery_item:
   - album: ga
     image: Sony_Pictures_logo.png
     caption: Write your image 2 caption here
-    
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+
+
 ---

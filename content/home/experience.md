@@ -34,7 +34,9 @@ experience:
 
         * Improved the performance and user experience of the Web Application through asynchronous programming and UI logic optimization, etc. Reduced waiting time by 70%.
 
-        * Introduced AWS CloudFormation to orchestrate the setup of different AWS resources such as S3, DynamoDB, Lambda, Batch, EC2, ECR, ECS, EventBridge, SQS, IAM, etc.
+        * Integrated HDR conversion steps into the current architecture.
+
+        * Introduced AWS CloudFormation to orchestrate the setup of different AWS resources such as S3, DynamoDB, Lambda, Batch, EventBridge, SQS, etc.
 
   - title: Software Engineer Intern
     company: Nokia

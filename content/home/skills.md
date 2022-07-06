@@ -37,9 +37,9 @@ feature:
     icon_pack: fas
     name: Communication & Team work
   - description: 
-    icon: database
-    icon_pack: fas
-    name: Sql
+    icon: linux
+    icon_pack: fab
+    name: Linux
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

@@ -34,9 +34,9 @@ experience:
 
         * Improved the performance and user experience of the Web Application through asynchronous programming and UI logic optimization, etc. Reduced waiting time by 70%.
 
-        * Integrated HDR conversion steps into the current architecture.
+        * Integrated HDR conversion steps into the current AWS architecture.
 
-        * Introduced AWS CloudFormation to orchestrate the setup of different AWS resources such as S3, DynamoDB, Lambda, Batch, EventBridge, SQS, etc.
+        * Utilized Terraform to orchestrate AWS services such as EC2, S3, DynamoDB, Lambda, Batch, SQS, etc. as the practice of infrastructure as code.
 
   - title: Software Engineer Intern
     company: Nokia
@@ -64,7 +64,7 @@ experience:
     description: |2-
         * Developed an Auxiliary Platform (AP), used to audit submitted source code, documentation, etc., and authorize the permission-related configuration. 
 
-        * Designed the back-end/front-end with Django + REST API / Vue + Element UI, visualized reports with ECharts.
+        * Revised the back-end/front-end with Django + REST API / Vue + Element UI, visualized data report with ECharts.
 
         * Deployed micro-services and CI/CD pipeline with Jenkins and GitLab.
 
